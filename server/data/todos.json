@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "text": "Complete project setup",
+    "completed": false,
+    "priority": "high",
+    "category": "work",
+    "createdAt": "2024-01-15T09:00:00.000Z",
+    "updatedAt": "2024-01-15T09:00:00.000Z",
+    "dueDate": "2024-01-20T18:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "text": "Review design mockups",
+    "completed": true,
+    "priority": "medium",
+    "category": "work",
+    "createdAt": "2024-01-14T10:30:00.000Z",
+    "updatedAt": "2024-01-15T14:20:00.000Z",
+    "dueDate": "2024-01-16T12:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "text": "Buy groceries",
+    "completed": false,
+    "priority": "low",
+    "category": "personal",
+    "createdAt": "2024-01-15T08:15:00.000Z",
+    "updatedAt": "2024-01-15T08:15:00.000Z",
+    "dueDate": "2024-01-17T19:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "text": "Schedule dentist appointment",
+    "completed": false,
+    "priority": "medium",
+    "category": "personal",
+    "createdAt": "2024-01-13T16:45:00.000Z",
+    "updatedAt": "2024-01-13T16:45:00.000Z",
+    "dueDate": "2024-01-25T10:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "text": "Plan weekend trip",
+    "completed": false,
+    "priority": "low",
+    "category": "personal",
+    "createdAt": "2024-01-12T20:00:00.000Z",
+    "updatedAt": "2024-01-12T20:00:00.000Z",
+    "dueDate": "2024-01-30T23:59:59.000Z"
+  }
+]
